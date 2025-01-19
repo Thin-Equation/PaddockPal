@@ -52,4 +52,4 @@ python app.py
 
 ## Contact
 
-For any questions or feedback, please open an issue or contact us directly at [your-email@example.com].
+For any questions or feedback, please open an issue or contact us directly at [dhairyagoswami2001@gmail.com].
