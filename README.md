@@ -42,8 +42,6 @@ To set up the project locally, follow these steps:
 To start the chatbot, use the following commands:
 
 ```bash
-# Start the JavaScript server
-npm start
 
 # Start the Python server
 python app.py
