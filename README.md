@@ -44,8 +44,3 @@ To start the chatbot, use the following commands:
 ```bash
 ./devserver.sh
 ```
-
-
-## Contact
-
-For any questions or feedback, please open an issue or contact us directly at [dhairyagoswami2001@gmail.com].

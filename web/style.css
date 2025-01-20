@@ -125,8 +125,8 @@ body {
 }
 
 input[name="prompt"] {
+  display: flex;
   width: 100%;
-  min-width: 0;
   padding: 12px 20px;
   border: 1px solid #ddd;
   border-radius: 4px;
