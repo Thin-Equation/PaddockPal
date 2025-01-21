@@ -5,7 +5,4 @@ autopep8
 # App
 google-generativeai # Client library for the Gemini API
 flask
-os
-json
-http
 python-dotenv
