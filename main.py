@@ -34,7 +34,7 @@ Remember to maintain the excitement and passion that F1 fans have for the sport 
 class Config:
     PORT = int(os.environ.get('PORT', 8080))
     API_KEY = os.environ.get("GOOGLE_API_KEY")
-    DEFAULT_MODEL = "gemini-2.0-flash-exp"
+    DEFAULT_MODEL = "gemini-1.5-flash"
     
     @staticmethod
     def validate():
