@@ -1,4 +1,4 @@
-# F1 AI Chatbot
+# PaddockPal: F1 AI Chatbot
 
 ## Overview
 
