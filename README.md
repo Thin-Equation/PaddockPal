@@ -12,12 +12,11 @@ The F1 AI Chatbot is an advanced, interactive chatbot designed to provide inform
 
 ## Technologies Used
 
-- **JavaScript (43.9%)**
-- **CSS (23.9%)**
-- **Python (16.8%)**
-- **HTML (9.4%)**
-- **Nix (5.7%)**
-- **Shell (0.3%)**
+- **JavaScript (46.5%)**
+- **CSS (25.3%)**
+- **Python (17.8%)**
+- **HTML (10.0%)**
+- **Shell (0.4%)**
 
 ## Installation
 
