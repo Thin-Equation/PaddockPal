@@ -48,7 +48,7 @@ PaddockPal is an AI-powered Formula 1 expert chatbot built with Next.js 14.2.0 a
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/paddockpal.git
+git clone https://github.com/Thin-Equation/paddockpal.git
 cd paddockpal
 ```
 
